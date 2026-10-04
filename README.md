@@ -14,7 +14,6 @@ security practices and identify potential security weaknesses.
 ## 🎯 Objectives
 
 
-
 - Identify security risks
 - Evaluate existing security controls
 - Identify vulnerabilities
